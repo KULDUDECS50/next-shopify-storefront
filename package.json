@@ -20,6 +20,7 @@
     "prebuild": "npm run codegen"
   },
   "dependencies": {
+    "@jridgewell/sourcemap-codec": "^1.4.15",
     "next": "^13.3.0"
   },
   "devDependencies": {
